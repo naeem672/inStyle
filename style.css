@@ -1,0 +1,159 @@
+.back-background {
+    background: black;
+    padding: 10px;
+}
+img.back-logo {
+    width: 10%;
+    padding-left: 11px;
+}
+.navbarsite-logo h2 {
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+}
+.navbarsite-logo p {
+    color: #fff;
+    opacity: 0.43;
+    font-size: 9px;
+    letter-spacing: 0.29em;
+    margin-bottom: 0;
+}
+span {
+    color: #ff006c;
+}
+div#navbarSupportedContent {
+    margin-left: 31%;
+}
+ul.navbar-nav.mb-2.mb-lg-0 {
+    column-gap: 10%;
+}
+i.fa-brands.fa-pinterest {
+    color: white;
+    font-size: 17px;
+    margin-top: 12px;
+}
+i.fa-brands.fa-facebook-f {
+    font-size: 17px;
+    color: white;
+    margin-top: 12px;
+}
+i.fa-brands.fa-twitter{
+    font: 17px;
+    margin-top: 12px;
+    color: white;
+}
+.text-crouser {
+    position: absolute;
+    color: white;
+}
+h1#size {
+    margin: auto;
+    font-size: 101px;
+    margin-top: 30%;
+    padding-left: 324px;
+}
+button.btn.btn-outline-light {
+    margin-left: 68%;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 0;
+    margin-top: 16px;
+    font-weight: 600;
+}
+.col-6 {
+    float: left;
+    width: 50%;
+    padding: 1%;
+}
+h1#apply {
+    padding-top: 15px;
+    margin-bottom: 40px;
+    line-height: 1.4;
+}
+
+button.moi {
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 0;
+    margin-top: 47px;
+    font-weight: 600;
+}
+.row {
+    margin-top: 10% !important;
+}
+img#apply {
+    width: 50%;
+}
+img {
+    width: 100%;
+}
+.col-lg-6.col-md-12 {
+    margin-top: 25px !important;
+}
+.box {
+    width: 40%;
+    margin-left: 14px;
+    padding: 20px 20px 35px;
+    position: absolute;
+    margin-top: -50px;
+    z-index: 1;
+    background: white;
+}
+p {
+    font-size: 16px;
+    color: #71767b;
+    line-height: 1.8;
+    font-family: "Helvetica 45 Light", sans-serif;
+}
+.box-tag {
+    text-transform: uppercase;
+    color: #ff1941;
+}
+.main-footer {
+    display: flex;
+    justify-content: center;
+    column-gap: 50px;
+    color: white;
+    background: #1f1f1f;
+    padding: 10%;
+    margin-top: 19%;
+}
+
+
+p#col-p1 {
+    font-weight: 100;
+    margin-top: 25px;
+}
+p#col-p1 {
+    font-weight: 100;
+    margin-top: 25px;
+    color: gray;
+}
+p#col-p3 {
+    color: gray;
+    margin-top: 28px;
+}
+p#col-p4 {
+    color: gray;
+    margin-top: 27px;
+}
+.icon {
+    font-size: 26px;
+    color: gray;
+}
+i.fa-brands.fa-whatsapp {
+    padding-right: 15px;
+}
+i.fa-brands.fa-facebook-f {
+    padding-right: 15px;
+}
+i.fa-brands.fa-twitter {
+    padding-right: 15px;
+}
+p#col-p2 {
+    color: gray;
+}
